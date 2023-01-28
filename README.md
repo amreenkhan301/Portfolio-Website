@@ -1,2 +1,2 @@
 # Portfolio-Website
-This is a portfolio website built using HTML, CSS and Javascript.
+This is a demo portfolio website built using HTML, CSS and Javascript.
